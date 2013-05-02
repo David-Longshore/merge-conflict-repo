@@ -1,1 +1,1 @@
-var five = 2 * 2; //sufficiently large value of two
+var typeCoercedFive = 1 + [2] + "2" //pretty sure this is how type coercion works in javascript...?
