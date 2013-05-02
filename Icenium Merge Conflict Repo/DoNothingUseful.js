@@ -1,1 +1,1 @@
-var five = 2 + 2; //sufficiently large value of two
+var five = 2 * 2; //sufficiently large value of two
